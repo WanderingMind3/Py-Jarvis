@@ -136,7 +136,3 @@ if __name__ == "__main__":
             print("Thanks for your time sir, Have a good day!")
             speak("Thanks for your time sir, Have a good day!")
             exit
-# speacial program only made to applause me.
-        elif 'who are you' in query:
-            print("I am just a small virtual assistant project created by mister srivastava, well known data scientist, hacker and developer. Mister Srivastava created me for helping others and making this world a good place. Thanks for showing your interest in me. Have a good day, Sir!") 
-            speak("I am just a small virtual assistant project created by mister srivastava, well known data scientist, hacker and developer. Mister Srivastava created me for helping others and making this world a good place. Thanks for showing your interest in me. Have a good day, Sir!")
